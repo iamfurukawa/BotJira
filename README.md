@@ -3,7 +3,7 @@ This is a bot that collects information from some Jira project and sends it to g
  
 The bot collects information from the Jira API and notifies the chat with some information:
 
-The job the message below runs at 09:00h and 17:00h.
+The job that can show the message below is running at 09:00h and 17:00h.
 ```text
 Daily Status (27/03/2020 - 17:00)
   - To Do : 2 issue(s)
@@ -12,7 +12,7 @@ Daily Status (27/03/2020 - 17:00)
   - Done : 2 issue(s)
 ```
 
-The job the message below runs each 30 minutes.
+The job that can show the message below is running each 30 minutes.
 
 ```text
 New Comments
@@ -22,7 +22,7 @@ New State
   - PBI-1245 was in To Do now is In Progress
 ```
 
-The job the message below runs each 30 minutes.
+The job that can show the message below is running each 30 minutes.
 
 ```text
 Issue(s) Added
