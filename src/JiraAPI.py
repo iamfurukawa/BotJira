@@ -4,7 +4,7 @@ from .Issue import *
 class JiraAPI:
 
     __server = '<JIRA SERVER URL>'
-    basic_auth = ('<JIRA USER>', 'JIRA PASSWD')
+    basic_auth = ('<JIRA USER>', '<JIRA PASSWD>')
     __jira = None
     __size = 100
 
